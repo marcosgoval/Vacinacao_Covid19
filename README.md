@@ -23,6 +23,7 @@ município.
 5. Salvar a segunda visualização com formato parquet e compressão snappy
 6. Salvar a terceira visualização em um tópico no Kafka
 7. Criar a visualização pelo Spark com os dados enviados para o HDFS:
+<image src=https://raw.githubusercontent.com/marcosgoval/Vacinacao_Covid19/main/assets/figura2.png>
 8. Salvar a visualização do exercício 6 em um tópico no Elastic
 9. Criar um dashboard no Elastic para visualização dos novos dados enviados
 
