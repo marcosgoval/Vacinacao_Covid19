@@ -16,9 +16,14 @@ Referência das Visualizações:
 1. Enviar os dados para o hdfs 
   
     docker cp arquivos/ namenode:/
+    !hdfs dfs -mkdir -p /user/marcos/data/covid
+    !hdfs dfs -ls /user/marcos/data/covid
+    
   
 2. Otimizar todos os dados do hdfs para uma tabela Hive particionada por
 município.
+  arquivo hive.sql
+  
 3. Criar as 3 vizualizações pelo Spark com os dados enviados para o HDFS:
 <image src=https://raw.githubusercontent.com/marcosgoval/Vacinacao_Covid19/main/assets/figura1.png>
 
