@@ -13,7 +13,10 @@ Referência das Visualizações:
 
 • Guia do Site: Painel Geral
 
-1. Enviar os dados para o hdfs
+1. Enviar os dados para o hdfs 
+  
+    docker cp HIST_PAINEL_COVIDBR* namenode:/home
+  
 2. Otimizar todos os dados do hdfs para uma tabela Hive particionada por
 município.
 3. Criar as 3 vizualizações pelo Spark com os dados enviados para o HDFS:
