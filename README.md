@@ -15,7 +15,7 @@ Referência das Visualizações:
 
 1. Enviar os dados para o hdfs 
   
-    docker cp HIST_PAINEL_COVIDBR* namenode:/home
+    docker cp arquivos/ namenode:/
   
 2. Otimizar todos os dados do hdfs para uma tabela Hive particionada por
 município.
