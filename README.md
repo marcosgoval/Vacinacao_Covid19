@@ -33,15 +33,16 @@ município.
 
     Arquivo: hive.sql (Foi utilizado dbeaver para execução dos comandos)
   
-3. Criar as 3 vizualizações pelo Spark com os dados enviados para o HDFS:
+3. Criar as 3 vizualizações pelo Spark com os dados enviados para o HDFS: (Arquivo: Desafio1.ipynb)
 <image src=https://raw.githubusercontent.com/marcosgoval/Vacinacao_Covid19/main/assets/figura1.png>
 
-4. Salvar a primeira visualização como tabela Hive
-5. Salvar a segunda visualização com formato parquet e compressão snappy
-6. Salvar a terceira visualização em um tópico no Kafka
-7. Criar a visualização pelo Spark com os dados enviados para o HDFS:
+4. Salvar a primeira visualização como tabela Hive (Arquivo: Desafio1.ipynb)
+5. Salvar a segunda visualização com formato parquet e compressão snappy (Arquivo: Desafio1.ipynb)
+6. Salvar a terceira visualização em um tópico no Kafka (Arquivo: Desafio1.ipynb)
+7. Criar a visualização pelo Spark com os dados enviados para o HDFS: (Arquivo: Desafio1.ipynb)
 <image src=https://raw.githubusercontent.com/marcosgoval/Vacinacao_Covid19/main/assets/figura2.png>
 8. Salvar a visualização do exercício 6 em um tópico no Elastic
+  
 9. Criar um dashboard no Elastic para visualização dos novos dados enviados
 
 # Autor
