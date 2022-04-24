@@ -3,7 +3,7 @@ Dados da Campanha Nacional de Vacinação contra Covid-19
 
 # Sobre o projeto
 
-Trata-se de um projeto sugerido pelo pessoal da Semantix academy para treinar e validar os conhecimentos repassados no curso de Engenharia de Dados que iniciou em 31/01/2022.
+Trata-se de um projeto sugerido pelo pessoal da Semantix Academy na pessoa do Rodrigo Rebouças para treinamento e validação dos conhecimentos repassados no curso de Engenharia de Dados que iniciou em 31/01/2022.
 
 ## Realizar as tarefas enumeradas utilizando dados da Saúde:
 
@@ -42,7 +42,7 @@ município.
 7. Criar a visualização pelo Spark com os dados enviados para o HDFS: (Arquivo: Desafio1.ipynb)
 <image src=https://raw.githubusercontent.com/marcosgoval/Vacinacao_Covid19/main/assets/figura2.png>
 8. Salvar a visualização do exercício 6 em um tópico no Elastic
-  
+
 9. Criar um dashboard no Elastic para visualização dos novos dados enviados
 
 # Autor
